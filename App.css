@@ -1,0 +1,27 @@
+.header {
+  background-color: #8b5e3b;
+  color: #fff3e6;
+  text-align: center;
+  padding: 12px;
+  font-size: 20px;
+  font-weight: bold;
+  border-bottom: 3px solid #d8a48f;
+}
+
+.main-content {
+  text-align: center;
+  padding: 30px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #4a3b30;
+}
+
+.footer {
+  background-color: #8b5e3b;
+  color: #fff3e6;
+  text-align: center;
+  padding: 12px;
+  font-size: 18px;
+  font-weight: bold;
+  border-top: 3px solid #d8a48f;
+}
